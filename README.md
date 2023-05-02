@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Results Summary Component Link](https://kazumi513.github.io/firstcssproject/)
+- Live Site URL: [Results Summary Component Link](https://kazumi513.github.io/resultscomponent/)
 
 ## My process
 
