@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./librewolf_fT07AIbxCL/png)
+![](https://imgur.com/OlW0tHT)
 
 ### Links
 
