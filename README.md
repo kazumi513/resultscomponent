@@ -1,4 +1,4 @@
-# Frontend Mentor - Results summary component solution
+# Results summary component solution
 
 This is a results summary component. It's comprised of HTML and CSS.
 
