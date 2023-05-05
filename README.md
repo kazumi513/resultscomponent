@@ -1,4 +1,4 @@
-# Frontend Mentor - Results summary component solution
+# Results summary component solution
 
 This is a results summary component. It's comprised of HTML and CSS.
 
@@ -28,11 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./librewolf_fT07AIbxCL/png)
+![](https://imgur.com/OlW0tHT)
 
 ### Links
 
-- Live Site URL: [Results Summary Component Link](https://kazumi513.github.io/firstcssproject/)
+- Live Site URL: [Results Summary Component Link](https://kazumi513.github.io/resultscomponent/)
 
 ## My process
 
