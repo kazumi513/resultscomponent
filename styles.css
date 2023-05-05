@@ -170,21 +170,26 @@
 }
 
 button:hover {
+  cursor: pointer;
   background-color: #8f98f8;
 }
 
 button:active {
+  cursor: pointer;
   font-size: 30px;
 }
 
 span:hover {
+  cursor: pointer;
   font-size: large;
 }
 
 .rating__total-number:hover {
+  cursor: pointer;
 font-size: large;
 }
 
 .rating__total-number:hover {
+  cursor: pointer;
   font-size: large;
   }
