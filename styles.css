@@ -168,3 +168,17 @@
     
   }
 }
+
+button:hover {
+  background-color: #8f98f8;
+}
+
+.bounce:hover {
+  animation-name: bounce;
+  animation-timing-function: ease;
+}
+@keyframes bounce {
+0%   { transform: translateY(0); }
+50%  { transform: translateY(-50px); }
+100% { transform: translateY(0); }
+}
