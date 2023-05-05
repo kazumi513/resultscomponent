@@ -173,12 +173,18 @@ button:hover {
   background-color: #8f98f8;
 }
 
-.bounce:hover {
-  animation-name: bounce;
-  animation-timing-function: ease;
+button:active {
+  font-size: 30px;
 }
-@keyframes bounce {
-0%   { transform: translateY(0); }
-50%  { transform: translateY(-50px); }
-100% { transform: translateY(0); }
+
+span:hover {
+  font-size: large;
 }
+
+.rating__total-number:hover {
+font-size: large;
+}
+
+.rating__total-number:hover {
+  font-size: large;
+  }
